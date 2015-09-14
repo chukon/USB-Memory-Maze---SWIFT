@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 Rock Valley College. All rights reserved.
 //
 
+// Chuck Konkol on Github
+
 import UIKit
 
 class MyRVCViewController: UIViewController {
